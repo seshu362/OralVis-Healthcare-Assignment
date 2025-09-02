@@ -73,7 +73,7 @@ OralVis Healthcare is a comprehensive dental scan management system that allows 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/oralvis-healthcare.git
+git clone https://github.com/seshu362/OralVis-Healthcare-Assignment.git
 cd oralvis-healthcare
 ```
 
