@@ -58,7 +58,7 @@ OralVis Healthcare is a comprehensive dental scan management system that allows 
 
 ## Live Demo
 
-🌐 **[View Live Demo](https://your-demo-link.com)**
+🌐 **[View Live Demo](https://oral-vis-healthcare-seshu.vercel.app/)**
 
 **Demo Credentials:**
 - **Technician:** technician@oralvis.com / tech123
